@@ -30,11 +30,11 @@ header{
   margin-right:5px;
   max-width:40px
 }
-.navigation .link{
+link{
   padding:10px
 }
-.navigation .link.active{
-  background-color:#eee;
+.link .active{
+  background-color: #ea9494;
   border-radius:5px
 }
 .items{
